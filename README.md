@@ -1,2 +1,1 @@
-# Sentiment-Analysis
-Sentiment Analysis on covid-19 using Twitter Data
+# Covid-19-Sentiment-Analysis
